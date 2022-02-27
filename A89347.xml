@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An apology in the behalf of the sequestred clergy; presented to the High Court of Parliament; / by R. Mossom, preacher of Gods Word at S. Pet. P. Wh. London.</title>
+            <author>Mossom, Robert, d. 1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89347</idno>
+            <idno type="STC">Wing M2860</idno>
+            <idno type="STC">Thomason E1029_5</idno>
+            <idno type="STC">ESTC R202937</idno>
+            <idno type="EEBO-CITATION">99863061</idno>
+            <idno type="PROQUEST">99863061</idno>
+            <idno type="VID">115243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115243)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1029[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An apology in the behalf of the sequestred clergy; presented to the High Court of Parliament; / by R. Mossom, preacher of Gods Word at S. Pet. P. Wh. London.</title>
+                  <author>Mossom, Robert, d. 1679.</author>
+               </titleStmt>
+               <extent>18 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Grantham, at the Black Bear in S. Paul's Church-yard near the little north-door,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A variant has no hyphen between 'Church' and 'yard' in the imprint.</note>
+                  <note>Annotation on Thomason copy: "June 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  History --  Early works to 1800.</term>
+               <term>Clergy --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115243:1"/>
+            <pb facs="tcp:115243:1" rendition="simple:additions"/>
+            <p>AN APOLOGY In the behalf of the SEQVESTRED CLERGY;</p>
+            <p>Preſented to the High Court of <hi>PARLIAMENT;</hi>
+            </p>
+            <p>By R. MOSSOM, Preacher of Gods Word at S. <hi>Pet. P. Wh.</hi> London.</p>
+            <q xml:lang="lat">
+               <p>Lex Iuſtitiae, Iuſtitia Reipub. baſis,</p> 
+               <bibl>I. C. ax.</bibl>
+            </q>
+            <p>
+               <add>June 17</add> 
+               <hi>LONDON,</hi> Printed for <hi>William Grantham,</hi> at the Black <hi>Bear</hi> in S. <hi>Paul</hi>'s Church yard near the little <hi>North-Door</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115243:2"/>
+            <pb n="3" facs="tcp:115243:2"/>
+            <head>TO THE RIGHT HONOURABLE THE LORDS and COMMONS Aſſembled in PARLIAMENT.</head>
+            <opener>
+               <salute>Most Noble Lords, and Worthy Patriots,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">G</seg>Lorious is the day of our <hi>Sion</hi>'s deli<g ref="char:EOLhyphen"/>verance, in which the <hi>Sun</hi> hath bro<g ref="char:EOLhyphen"/>ken through the clouds, <hi>Soveraignty</hi> dispell'd the miſts and ſtorms too of Diſloyalty. Now, after our <hi>Hallelujah</hi>'s to the King of Glory for the wonders of his Provi<g ref="char:EOLhyphen"/>dence; Fit it is, that we make oblations of Gratitude, for your prudent <hi>Councels</hi> and exem<g ref="char:EOLhyphen"/>plary <hi>Allegiance.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:115243:3"/>Whereby, whatever have been our turnings and rollings, all as Excentrick to Righteouſ<g ref="char:EOLhyphen"/>neſſe as to Peace; we are now fixt upon our right Centre, a Loyall <hi>Subjection</hi> to our lawfull <hi>Soveraign.</hi>
+            </p>
+            <p>And O what joy is it! to ſee in the High Court of Parliament, <hi>Aristides</hi> and <hi>Themisto<g ref="char:EOLhyphen"/>cles</hi> forget all injuries and animoſities; change<g ref="char:EOLhyphen"/>ing their private Contention into this publick Emulation,<note place="margin">
+                  <hi>Herod.</hi> Hiſt.</note> 
+               <hi>Vter melius de Patria mereri poſsit,</hi> whether may deſerve beſt of his Countrey.</p>
+            <p>This is that <hi>(VVorthy Heroes)</hi> which gives confidence to this Addreſſe, by way of <hi>Apolo<g ref="char:EOLhyphen"/>gy,</hi> ſo to repreſent the <hi>Sequeſtred Clergie</hi>'s cauſe and condition, that, in the common Ioy, and publick Exultation, they may not be the onely Mourners at<note n="*" place="margin">If yet they have any Homes, ſince they were thruſt out of their houſes.</note> Home, in their deep diſtreſſe of private affliction; which yet muſt needs be, if when their Perſecution is ceas'd, their Sufferings continue; if when their Oppreſſours are remo<g ref="char:EOLhyphen"/>ved, they remain ſtill under their Oppreſſions. They have had their part in the Faſtings, and Prayers, and Tears, for obtaining the bleſſing of <hi>Reſtauration;</hi> O let them have their Portion in the Comfort, and Peace and Ioy of the <hi>Church</hi> and <hi>State</hi> reſtor'd. They have, though ſequeſtred, threatned, and impriſoned, they have, very many of them (if not moſt of them) from <hi>Preſſe</hi> and <hi>Pulpit,</hi> Pray'd and Preach't, and
+<pb n="5" facs="tcp:115243:3"/>
+earneſtly contended <hi>for that Liberty,</hi> wherein theſe Nations now ſtand; and O let them have at leaſt this Reward of their ſervices, a Releaſe from their ſufferings.</p>
+            <p>Many of us have been Sequeſtred, before the late <hi>King of bleſſed memory</hi> was murder'd, and many of us ſince that black and diſmall Trea<g ref="char:EOLhyphen"/>ſon; and for no other Crime, but acting in our Callings, according to the Dictate of our Con<g ref="char:EOLhyphen"/>ſciences, diſcharging our Miniſtry according to the Rule of our Eſtabliſh't <hi>Laws.</hi> (If ignorance or ſcandall be truly and legally objected againſt any man's Miniſtry or Perſon, Let them that will <hi>plead for Baal.</hi>) Not being conſcious then of violating either the <hi>Law</hi> of God or Man; If our Accuſers, and their Accuſations be produc't in <hi>Iudgement,</hi> we are ready either clearly to juſti<g ref="char:EOLhyphen"/>fy our Innocence, or humbly to ſubmit unto our ſentence. Beſides, impoſſible it is, that <hi>all notes of Diſcord and Parties</hi> (as his <hi>Majeſty</hi> in his Declaration graciouſly deſires, and poſitively ordains) ſhould be utterly aboliſhed; whilſt our Sequeſtrations continue, and which is worſe, if the unlawfull Poſſeſſion of Intruders be confirmed.</p>
+            <p>We humbly conceive, that the Occaſion of our Sequeſtrations is now remov'd, and this not by any pretence of <hi>power</hi> or <hi>Party</hi> pleading con<g ref="char:EOLhyphen"/>queſt (a thing to be for ever ſilenc't) but, by a
+<pb n="6" facs="tcp:115243:4"/>
+wonderfull <hi>work</hi> of God, upon the very <hi>hearts</hi> of men; He and He alone hath overcome us all, in his kindneſſe and love; to teach us to o<g ref="char:EOLhyphen"/>vercome one another, by all loving kindneſſe.</p>
+            <p>Now, the occaſion (I ſay) of our <hi>Sequeſtra<g ref="char:EOLhyphen"/>tions</hi> being thus, even thus removed, ſhall a worſe evil come upon us, (not only all loving kindneſſe, but all common Iuſtice being forgot<g ref="char:EOLhyphen"/>ten) the unjuſt <hi>Poſſeſsion</hi> of our Livings-con<g ref="char:EOLhyphen"/>firm'd? What could our greateſt Enemies doe more? Nay, they would have done much leſſe, had we ſubmitted to their Uſurpation and Ty<g ref="char:EOLhyphen"/>ranny. We doubt not but the <hi>Honourable Court of Parliament,</hi> taking this one particular into their judicious and Chriſtian conſideration, it will perſwade a ſpeedy removing, whatſoever may obſtruct our ſo juſt, ſo reaſonable, ſo neceſ<g ref="char:EOLhyphen"/>ſary readmiſſion.</p>
+            <p>Sure we are, the<note n="*" place="margin">Poſſeſsio jure conſiſtens eſt ci<g ref="char:EOLhyphen"/>vilis poſſeſsio, <hi>Cod.</hi> l. <hi>7.</hi> tit. <hi>32.</hi>
+               </note> 
+               <hi>Civil Law</hi> does not (nor a<g ref="char:EOLhyphen"/>ny other) juſtify Poſſeſſion without right; ſo that<note n="*" place="margin">Injuſta poſ<g ref="char:EOLhyphen"/>ſeſsio non eſt Titulus, &amp; ſine Titulo non eſt locus praeſcri<g ref="char:EOLhyphen"/>ptioni, <hi>Ibid.</hi>
+               </note> unjuſt Poſſeſſion, though long, cannot give <hi>Title;</hi> and without <hi>Title,</hi> there is no plea for Preſcription; but the <hi>Law</hi> obliges to reſti<g ref="char:EOLhyphen"/>tution. We are right in the State of<note n="*" place="margin">Reverſus de Captivita<g ref="char:EOLhyphen"/>te, <hi>&amp;c. Cod.</hi> l. <hi>7.</hi> t. <hi>35.</hi>
+               </note> 
+               <hi>Captives</hi> returned, to whom, by all rules of Equity, plena<g ref="char:EOLhyphen"/>ry Reſtitution is to be made; which yet we re<g ref="char:EOLhyphen"/>mit of in our deſires, as to the <hi>Summum Ius</hi> of a plenary Reſtitution, referring our ſelves <hi>(Ho<g ref="char:EOLhyphen"/>nour'd Patriots)</hi> to your Candour and Modera<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <pb n="7" facs="tcp:115243:4"/>This <hi>Precedent</hi> we can Produce, (we will not take the Confidence to propoſe) that when the Thirty Tyrants under <hi>Gallienus</hi> and <hi>Valerianus,</hi> had brought the <hi>Roman</hi> Empire into much diſ<g ref="char:EOLhyphen"/>order and confuſions; and that by<note n="*" place="margin">
+                  <hi>Evagr.</hi> Hiſt. l. 2.</note> 
+               <hi>Baſiliſcus</hi> Tyrannizing in the Eaſt, that venerable Coun<g ref="char:EOLhyphen"/>cil of <hi>Chalcedon</hi> was condemned, and the Holy Fathers of the Church, the Biſhops, and other Paſtours were diſplac't and expulſt; <hi>Zeno</hi> the Emperour ſubduing this uſurpation and Tyran<g ref="char:EOLhyphen"/>ny, with the advice of the <hi>Senate,</hi> makes a De<g ref="char:EOLhyphen"/>cree for a reſtitution to the Church, with a<note n="*" place="margin">
+                  <hi>Cod.</hi> l. 1. Tit. 2.</note> 
+               <hi>De<g ref="char:EOLhyphen"/>cernimus, in Integrum restituantur Vniverſa, &amp; ad ſuum ordinem revocentur,</hi> We decree that all things be reſtored wholly, and reduc't into their own Order.</p>
+            <p>And not onely the <hi>Civil Law</hi> aſſerts our Cauſe, but alſo the <hi>Common Law</hi> hath done it's utmoſt to ſecure our Eſtates. For, beſides the <hi>Articuli Cleri</hi>— ſo full and particularly ex<g ref="char:EOLhyphen"/>preſſe, we have our Intereſt in <hi>Magna Char<g ref="char:EOLhyphen"/>ta,</hi> as to Priviledge and Propriety, as clear and as full, as any whatſoever. It is ordain'd in that Royal Charter, ſo often confirm'd in Parlia<g ref="char:EOLhyphen"/>ments, that * <hi>if any thing be procured by any Per<g ref="char:EOLhyphen"/>ſon, contrary</hi> to our Priviledge and Propri<g ref="char:EOLhyphen"/>ety (the <hi>Premiſes</hi> intended) <hi>it ſhall be holden of no force or effect.</hi> So that,<note place="margin">
+                  <hi>Mag. Chart.</hi> cap. 37.</note> without an open breach made to the Violation of all Men's Pro<g ref="char:EOLhyphen"/>perty,
+<pb n="8" facs="tcp:115243:5"/>
+we cannot be deny'd the aſſerting Ours.</p>
+            <p>Many Objections are ſtrongly made, which here, (I humbly conceive) are fully An<g ref="char:EOLhyphen"/>ſwer'd.</p>
+            <p>
+               <label>1. Object.</label> Many learned and Godly men will be unprovided, if the ſequeſtred Clergy be reſto<g ref="char:EOLhyphen"/>red.</p>
+            <p>
+               <label>Anſ.</label> We give their learning it's juſt E<g ref="char:EOLhyphen"/>ſteem; but let me ſay (and 'tis beyond any mans gainſaying) The <hi>Learnedst Clergy</hi> that ever <hi>England</hi> had, was that ſequeſtred; their works doe witneſſe it to the whole World. And as for their Godlyneſſe,<note place="margin">Matth. 12.33.</note> if <hi>the Tree may be known by it</hi>'s <hi>fruits,</hi> theſe, here pleaded for, have given te<g ref="char:EOLhyphen"/>ſtimony beyond exception. Yet theſe ſo emi<g ref="char:EOLhyphen"/>nently <hi>Learned and Godly Miniſters</hi> have been (without all tenderneſſe of compaſſion to<g ref="char:EOLhyphen"/>wards them) unprovided for, almoſt twen<g ref="char:EOLhyphen"/>ty yeares; which (if the <hi>Objection</hi> have any Weight) may juſtly require, &amp; urge their ſpeedy Readmiſſion, having been out too long, to be kept out any longer, when God himſelf hath opened the way for their Return. And Indeed, it is <hi>Gods Providence</hi> which Miraculouſly hath opened the way; and ſhall any Humane Power adventure to obſtruct it? We deſire no more but the benefit of the Known Law, and ſhould not have need of any Plea, Petition, or Apolo<g ref="char:EOLhyphen"/>gy to recover our own, did not ſome endea<g ref="char:EOLhyphen"/>vour
+<pb n="9" facs="tcp:115243:5"/>
+to prevail with this <hi>Honourable Court,</hi> to In<g ref="char:EOLhyphen"/>terpoſe their Authority, to intercept our claim.</p>
+            <p>How then are they <hi>Godly?</hi> who will know<g ref="char:EOLhyphen"/>ingly (and ſo, their Learning doe's encreaſe their Guilt) adde ſinne unto ſinne, by uſurping an<g ref="char:EOLhyphen"/>others right after ſo many years unlawfull Poſ<g ref="char:EOLhyphen"/>ſeſſion; and taking upon them the guiding of thoſe Flocks, the Chief ſhepheard never com<g ref="char:EOLhyphen"/>mitted to them, as not<note n="a" place="margin">Ioh. 10.1.2.</note> 
+               <hi>entring by the right Door.</hi> Beſides, if this <hi>Parliament</hi> ſhould enact (which God forbid) that ſuch Intruders ſhould be confirm'd in other men's Livings as to E<g ref="char:EOLhyphen"/>ſtate; and other men's charges, as to the Mini<g ref="char:EOLhyphen"/>ſtry; how great a Share would it be to men's Conſciences? (if at all Godly) which certainly would not hereby be quieted, if truly Awaken'd.</p>
+            <p>For <hi>our Right</hi> being Indubitable by the Law of God and Man; a Law <hi>Poſt fact,</hi> ſuch as this deſir'd from the Parliament, can no wayes ac<g ref="char:EOLhyphen"/>quit thoſe pretended Godly Miniſters, of Pal<g ref="char:EOLhyphen"/>pable Injuſtice; but <hi>in foro Conſcientiae,</hi> they lye under the known and wilfull guilt of Injury and Wrong, which cannot, without reſtitution, admit of repentance to receive Pardon; that Maxim among the <hi>Caſuiſts</hi> from S. <hi>Auguſtine</hi> being clear and certain,<note n="*" place="margin">Auguſt. <hi>Epiſt.</hi> 54.</note> 
+               <hi>non dimittitur Pecca<g ref="char:EOLhyphen"/>tum, niſi reſtituatur ablatum,</hi> there can be no re<g ref="char:EOLhyphen"/>miſſion (becauſe no true Repentance) without reſtitution, in repair of Injuries. I beſeech thoſe
+<pb n="10" facs="tcp:115243:6"/>
+Godly Miniſters to conſider, if they cannot an<g ref="char:EOLhyphen"/>ſwer this now, how they will anſwer it at the dreadfull day of Iudgement.</p>
+            <p>
+               <label>2. Object.</label> This of reſtoring Sequeſtred Mi<g ref="char:EOLhyphen"/>niſters to their Livings will diſturbe the calme of State.</p>
+            <p>
+               <label>Anſ.</label> Sure I am, the contrary will cloud the face of Heaven, and turn the calm into a ſtorm; and leave the Nation under a curſe. The great<g ref="char:EOLhyphen"/>eſt<note n="*" place="margin">1 Kin. 18.17.</note> 
+               <hi>Troubler of Iſrael,</hi> is certainly oppreſſion &amp; injuſtice; &amp; if the unjuſt poſſeſſion ſhould be con<g ref="char:EOLhyphen"/>firmed by the Parliament, (as ſome men would have it) what were this but<note n="*" place="margin">Pſal. 94.20.</note> 
+               <hi>to eſtabliſh iniquity by a Law?</hi> For if we have right to poſſeſſe, it is unjuſt to keep us out of our Poſſeſſion; unjuſt in them that uſurp our right, but more unjuſt in thoſe who confirm that uſurpation; eſpecially when they have the Power in their Hands, and Law on their ſides, &amp; are appeal'd to by us, as a <hi>Court,</hi> and the higheſt <hi>Court of Iuſtice,</hi> to have our Right aſſerted, and our injury redreſt.</p>
+            <p>Under favour; we may, and muſt plead, the Parliament will not (for it is a <hi>Court of Iustice</hi>) &amp; it is an audacious boldneſſe to think they will, or petition they would, againſt<note n="*" place="margin">Who yet are willing to ſa<g ref="char:EOLhyphen"/>crifice what is moſt dear, to the peace of the Church; upon a Bro<g ref="char:EOLhyphen"/>therly accord, for making up all breaches.</note> our wills, give away our rights. If the Law take our Livings from us, we ſtand to our Tryal, and ſubmit; if the Law does not, the Parliament ſure will not: I had l<g ref="char:EOLhyphen"/>moſt ſaid, cannot; this I am ſure, though they
+<pb n="11" facs="tcp:115243:6"/>
+may confirm Men's preſent Poſſeſſion, yet they cannot make our Right to have been no Right, it implyes a contradiction; be it ſo then, that the Parliament ſhould think fit to make their poſ<g ref="char:EOLhyphen"/>ſeſſion firm, can they make it juſt? Iuſt <hi>in foro Poli,</hi> whatſoever it is <hi>in foro Soli?</hi> And what Conveniency ſhould prompt the Parliament to confirm an unjuſt poſſeſſion, I cannot imagine, nor dare to enquire. Reaſon of State is a ſecret, which duty forbids my curioſity to pry into. I doubt not, but this good ſervice I ſhall doe the Parliament by this <hi>Apology,</hi> to clear their Iuſtice and Honour againſt thoſe mens inſolence and clamour, who would engage them to violate <hi>Magna Charta,</hi> the chiefeſt of Laws, and the <hi>Subjects property,</hi> the chiefeſt of Rights.</p>
+            <p>
+               <label>3. Object.</label> If the Miniſters muſt reſtore their Livings, then the Purchaſers their Lands; and if ſo, the conſequences will be, a new diſturbance and diſtraction.</p>
+            <p>
+               <label>Anſ.</label> As the Miniſters invading other mens livings, became too much a Preſident for the Purchaſers to poſſeſſe other mens Lands; ſo, it were to be wiſh't, that a juſt <hi>Reſignation</hi> in the Miniſters might become (as in <hi>Godly Men and Miniſters</hi> it ſhould become) Exemplary for a juſt <hi>Reſtitution</hi> in the Purchaſers. But to ſay truth, the Purchaſers are generally far more the ingenuous; who have very many of them been
+<pb n="12" facs="tcp:115243:7"/>
+ſatisfied with this <hi>Propoſal,</hi> that, upon their diſ<g ref="char:EOLhyphen"/>burſments being repayed, with conſideration of improvement for the time, the Lands ſhould be reſtored</p>
+            <p>Now, if the Miniſters had purchas't our Li<g ref="char:EOLhyphen"/>vings, as others did the <hi>Church-Lands,</hi> there might be<note n="*" place="margin">Notwith<g ref="char:EOLhyphen"/>ſtanding the ſure Rule in Civil Law, that, <hi>iniquis comparatoribus pretium repo<g ref="char:EOLhyphen"/>ſcere non liceat,</hi> cod. <hi>l.</hi> 7. <hi>tit.</hi> 38.</note> ſome appearance of equity for ſatiſ<g ref="char:EOLhyphen"/>faction of charge; but yet ſtill, no Plea for Pro<g ref="char:EOLhyphen"/>perty.</p>
+            <p>
+               <label>4. Object.</label> All muſt be content to be Looſers.</p>
+            <p>
+               <label>Anſ.</label> We think, after almoſt 20. years exclu<g ref="char:EOLhyphen"/>ſion from our Livings, to the utter undoing of ſo many numerous families,<note n="*" place="margin">I ſpeak not this as to my ſelf, though I have ſome<g ref="char:EOLhyphen"/>time taſted the bittereſt of ſufferings; for I acknowledge with thankful<g ref="char:EOLhyphen"/>neſſe, through a bleſſing of providence upon my un<g ref="char:EOLhyphen"/>wearied La<g ref="char:EOLhyphen"/>bours, I have maintained my ſelf and fa<g ref="char:EOLhyphen"/>mily in ſome plentifull ſub<g ref="char:EOLhyphen"/>ſiſtence.</note> forc't too too ma<g ref="char:EOLhyphen"/>ny to beg their bread, and very often want bread, when they have been begging of it; We think, after this, to tell us of being further Loo<g ref="char:EOLhyphen"/>ſers, when for ſo many years we have loſt all, is but the part of <hi>miſerable Comforters.</hi>
+            </p>
+            <p>Alas, many of us are ſo aged, that if not ſpee<g ref="char:EOLhyphen"/>dily reſtor'd, they ſhall not probably live, to en<g ref="char:EOLhyphen"/>joy any part of what's their own, which in this ſo <hi>miraculous a deliverance,</hi> is given unto them again of God. And indeed, this addes a further difference from the caſe of the Purchaſers; that as the Poſſeſſours of our rights, never were at charge for our Livings; ſo nor are their Heirs or Executours cut off from any after benefit, by their reſtoring of them. Our <hi>Tenure</hi> is but for life, that, the Purchaſers have paid for, is perpe<g ref="char:EOLhyphen"/>tuity;
+<pb n="13" facs="tcp:115243:7"/>
+ſo that, all the advantage we have by Re<g ref="char:EOLhyphen"/>ſtitution, is only to our ſelves, for that Pittance of life which remains; whereas in the Reſtitu<g ref="char:EOLhyphen"/>tion from the Purchaſers, there is a profit to Po<g ref="char:EOLhyphen"/>ſterity.</p>
+            <p>
+               <label>5. Object.</label> You of the Sequeſtred Clergy ſhall not be left without Proviſion; the Fana<g ref="char:EOLhyphen"/>tick, and not ordain'd Preachers being remov'd, and Livings as they fall vacant reſerv'd, there will be found Livings enough, e<g ref="char:EOLhyphen"/>qual in number and value, to admit You all to your Miniſterial employment, and a plentifull Subſiſtence.</p>
+            <p>
+               <label>Anſ.</label> A good way, if rightly ordered, to pre<g ref="char:EOLhyphen"/>ſerve the Parliaments Honour, in adminiſtring us Iuſtice; and this, without the leaſt of cla<g ref="char:EOLhyphen"/>mour, in not providing for <hi>Learned and Godly Miniſters.</hi> And 'tis thus; The ſequeſtred Cler<g ref="char:EOLhyphen"/>gy according to Law and Reaſon, Equity and Conſcience, being reſtor'd; Thoſe vacated Li<g ref="char:EOLhyphen"/>vings mentioned, will be a preſent ſupply for the Godly Miniſters removed; and this, <hi>Honourable</hi> to the Parliament, and <hi>Iuſt</hi> to us. But, that we ſhould be debarr'd our right againſt Law, and thus diſpoſed of to other Livings; However it might ſeem a way of relief to us, yet can it not (as we conceive) be an act of Iuſtice in the Par<g ref="char:EOLhyphen"/>liament; and ſo, though it does ſuſtain our lives, yet it will not ſupport their Honours.</p>
+            <p>
+               <pb n="14" facs="tcp:115243:8"/>For, if we are judg'd capable of other Li<g ref="char:EOLhyphen"/>vings, why not of our own? If we are not cri<g ref="char:EOLhyphen"/>minous, how comes it to paſſe, that having <hi>Property</hi> we are kept out of our old? and if we are criminous, how come we to have the <hi>Capa<g ref="char:EOLhyphen"/>city</hi> of being admitted into new? Beſides, we know many, put into our Livings, have deſerted their firſt Principles, and have taken the late <hi>En<g ref="char:EOLhyphen"/>gagement,</hi> and done (according to that) what was dangerous and deſtructive to <hi>King</hi> and <hi>Par<g ref="char:EOLhyphen"/>liament.</hi> Now, we ſuppoſe, ſuch perſons with<g ref="char:EOLhyphen"/>out diſpute, ſhall no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be ſheltered by any Parlia<g ref="char:EOLhyphen"/>mentary Authority, from the Laws of the Land, by which they (and all others too) are required to make Reſtitution.</p>
+            <p>Theſe then being remov'd, (whether preten<g ref="char:EOLhyphen"/>ded <hi>Heads</hi> of Houſes in the Univerſities, or <hi>Mi<g ref="char:EOLhyphen"/>niſters</hi> of ſeverall Churches, or the like) there will not be found (conſidering how very many ſince their Sequeſtration have died in their Loy<g ref="char:EOLhyphen"/>alty) there will not be found ſo conſiderable a number of the <hi>Sequeſtred Clergy,</hi> to return to their reſpective charges, as to make any appa<g ref="char:EOLhyphen"/>rent diſturbance in the <hi>State;</hi> and ſo, not ſo conſiderable a number of the foreſaid <hi>Godly Mi<g ref="char:EOLhyphen"/>nisters,</hi> for whoſe ſakes, the Parliament ſhould be put upon ſo great an act of diſhonour, as that of injuſtice.</p>
+            <p>
+               <label>6. Obejct.</label> The Miniſters are now ſo well ac<g ref="char:EOLhyphen"/>quainted
+<pb n="15" facs="tcp:115243:8"/>
+with their People, and the People with their Miniſters, that it will be a diſtraction to the ſeverall Pariſhes to receive new Preachers.</p>
+            <p>
+               <label>Anſ.</label> How the ſeverall Pariſhes are affected towards their antient Paſtours, is very evident; Many of them (I am ſure) much deſiring, and earneſtly longing, yea inviting their Return. In<g ref="char:EOLhyphen"/>deed, (I believe) if the <hi>Colledges</hi> were to Petiti<g ref="char:EOLhyphen"/>on for their Governours, and the <hi>Pariſhes</hi> for their Miniſters, it would ſoon appear, whether is moſt diſſatisfactory and diſtracting to the Col<g ref="char:EOLhyphen"/>ledges and Pariſhes, the <hi>Abſence</hi> or <hi>Return</hi> of their Lawfull Heads and Miniſters.</p>
+            <p>Wherefore, it may be confidently averr'd, that it would be, not onely a great Content<g ref="char:EOLhyphen"/>ment and Comfort, to the Aged Heads and Re<g ref="char:EOLhyphen"/>ligious hearts, of many truly <hi>Reverend</hi> for learn<g ref="char:EOLhyphen"/>ing and Godlyneſſe, to be re-admitted to the Exerciſe of their Miniſtry in their reſpective <hi>Cures;</hi> but it would be alſo an abundant ſatis<g ref="char:EOLhyphen"/>faction to their ſeveral <hi>Charges,</hi> who earneſtly Pray and long for their returns; being conſci<g ref="char:EOLhyphen"/>entiouſly ſenſible, how they have, <hi>like ſheep, erred and ſtrayed,</hi> ſince they loſt their Lawfull Shepheards.</p>
+            <p>Now, if notwithſtanding this <hi>Apology,</hi> and <hi>Plea,</hi> fortify'd with arguments of Law and E<g ref="char:EOLhyphen"/>quity, reaſon and Religion; if notwithſtand<g ref="char:EOLhyphen"/>ing all this, the Iudgement of this ſo <hi>Honourable
+<pb n="16" facs="tcp:115243:9"/>
+Parliament</hi> thinks fit (for cauſes beſt known un<g ref="char:EOLhyphen"/>to themſelves) to wave our right, and deter<g ref="char:EOLhyphen"/>mine againſt our Re-admiſſion; we have diſ<g ref="char:EOLhyphen"/>charg'd our Conſciences, as to that<note n="†" place="margin">1 Tim. 5.8.</note> 
+               <hi>Natural Obligation</hi> of providing for our Families; that <hi>Political,</hi> of aſſerting our juſt Titles; and that <hi>Religious,</hi> of attending our Miniſterial Charges; all which will acquit us in our Account at the laſt day. And having done this, we will not Im<g ref="char:EOLhyphen"/>patiently repine, nor uncharitably cenſure much leſſe undutifully reſiſt, but, in our accuſtomed ſi<g ref="char:EOLhyphen"/>lence, ſit down in ſubmiſſion to this <hi>High Courts</hi> prudential Decree, and final Determination.</p>
+            <p>At preſent then, in the Face of the World, we plead for that, which ſo Honourable a Par<g ref="char:EOLhyphen"/>liament will not deny us; To our Cauſe, <hi>Iuſtice;</hi> to our Condition, <hi>Mercy;</hi> Mercy, for, we may not doubt, but at <hi>Weſtminſter</hi> as well as at <hi>Athens,</hi> amidſt ſo many Noble Hearts, we ſhall find an<note n="†" place="margin">Parca ſuper<g ref="char:EOLhyphen"/>ſtitio non thu<g ref="char:EOLhyphen"/>rea flamma nec Alius- Accipitur ſan<g ref="char:EOLhyphen"/>guis, lachrymis Altaria ſu<g ref="char:EOLhyphen"/>dant, <hi>&amp;c. Stat. lib. 12.</hi>
+               </note> 
+               <hi>Altar</hi> dedicated to <hi>Mercy;</hi> whoſe Sa<g ref="char:EOLhyphen"/>crifices are ſighs and tears, of which we can give a plentifull offering, from Parents and Children oppreſt with neceſſities and wants.</p>
+            <p>We know indeed, <hi>Compaſsion</hi> is pleaded, as to the Families of the preſent Poſſeſſors; But what! may it not be more equally pleaded, as to thoſe, the ſo long diſpoſſeſt? The <hi>Sequeſtred Clergy</hi> have, generally, from plentifull Eſtates been reduc't to the deepeſt of neceſſities; but
+<pb n="17" facs="tcp:115243:9"/>
+they who entred upon the Sequeſtrations, were advanc't from neceſſitous Eſtates to a plentifull maintenance; and ſo are provided even with our Incomes, to bear the want of profits (if it muſt be) better, then thoſe of the <hi>Suffering Brethren</hi> quite exhauſted, and fainting under their Afflictions.</p>
+            <p>Whether indeed is more equal? that they be expoſed to want, who have <hi>Right,</hi> but no <hi>Poſ<g ref="char:EOLhyphen"/>ſeſsion;</hi> or they, who have <hi>Poſſeſsion,</hi> but no <hi>Right.</hi>
+            </p>
+            <p>Suppoſing, that many, very many poſſeſt of our Livings, not being <hi>Ordained Miniſters</hi> (or but lately ordained in deſign to hold their Li<g ref="char:EOLhyphen"/>vings) ſhould not continue, but muſt give place to the lawfull incumbents; ſuppoſing this, con<g ref="char:EOLhyphen"/>ſider I beſeech you <hi>(Noble Worthies)</hi> how it clearly evinceth right of poſſeſſion to be on our ſide; but <hi>a reſpect of Party</hi> (a thing his Majeſty would have buried, and this Parliament hath diſ<g ref="char:EOLhyphen"/>claimed) is made the grand ſtop to our free re<g ref="char:EOLhyphen"/>turn; for, that all others do not recede, to give us poſſeſſion, cannot be juſtified by Law, therefore do they ſeek to be countenanc't by favour.</p>
+            <p>If in this <hi>Apology,</hi> any errour of Iudgement, any heat of Zeal, any unfitneſſe of expreſſion, imprudence of Addreſſe, or the like, be liable to <hi>Iust Cenſure;</hi> I humbly crave, that it may be wholly laid upon my ſelf, acquitting the <hi>Reve<g ref="char:EOLhyphen"/>rend
+<pb n="18" facs="tcp:115243:10"/>
+Fathers,</hi> and the <hi>Miniſteriall Brethren,</hi> as not in the leaſt culpable. The haſt of this Ad<g ref="char:EOLhyphen"/>dreſſe (leſt it ſhould be prevented by the Parlia<g ref="char:EOLhyphen"/>ments proceeding to the <hi>Bill</hi>) not permitting a deliberate conſultation with them, or a particu<g ref="char:EOLhyphen"/>lar approbation from them.</p>
+            <p>
+               <hi>Now, the God of all Wiſdome direct your Conſul<g ref="char:EOLhyphen"/>tations</hi> (Moſt Noble Lords and Honoured Heroes) <hi>to the glory of his Name, the honour of the King, and the Peace of our Sion, through Ieſus Chriſt our Lord,</hi> Amen, Amen.</p>
+            <closer>
+               <signed>Thus Pray's Your Honours Suppliant R. MOSSOM, a Miniſter of the Goſpel, and one of the Se<g ref="char:EOLhyphen"/>queſtred CLERGY.</signed>
+            </closer>
+            <pb facs="tcp:115243:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
